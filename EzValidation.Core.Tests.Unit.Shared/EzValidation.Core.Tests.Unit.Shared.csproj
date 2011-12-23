@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59350E84-4CB6-4A46-9C97-616296FE894B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EzValidation.Core.Tests.Unit.Shared</RootNamespace>
+    <AssemblyName>EzValidation.Core.Tests.Unit.Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\GreaterOrEqualModelOfDatesAsStrings.cs" />
+    <Compile Include="Models\LessOrEqualModelOfDatesAsStrings.cs" />
+    <Compile Include="Models\LessModelOfDatesAsStrings.cs" />
+    <Compile Include="Models\GreaterModelOfDatesAsStrings.cs" />
+    <Compile Include="Models\LessOrEqualModelOfDates.cs" />
+    <Compile Include="Models\LessOrEqualModelOfLongs.cs" />
+    <Compile Include="Models\GreaterOrEqualModelOfDates.cs" />
+    <Compile Include="Models\GreaterOrEqualModelOfLongs.cs" />
+    <Compile Include="Models\LessModelOfDates.cs" />
+    <Compile Include="Models\LessModelOfLongs.cs" />
+    <Compile Include="Models\GreaterModelOfDates.cs" />
+    <Compile Include="Models\GreaterModelOfLongs.cs" />
+    <Compile Include="Models\NotEqualModelOfDates.cs" />
+    <Compile Include="Models\NotEqualModelOfLongs.cs" />
+    <Compile Include="Models\NotEqualModelOfStrings.cs" />
+    <Compile Include="Models\EqualModelOfDates.cs" />
+    <Compile Include="Models\EqualModelOfLongs.cs" />
+    <Compile Include="Models\EqualModelOfStrings.cs" />
+    <Compile Include="Fakes\FakeModelBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\ValidationViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EzValidation.Core\EzValidation.Core.csproj">
+      <Project>{96FE93BB-0EC2-4C41-84C8-3F94505E8032}</Project>
+      <Name>EzValidation.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

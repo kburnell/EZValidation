@@ -1,0 +1,9 @@
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\bin\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\bin\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.pdb
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\bin\EzValidation.Core.Tests.Unit.Shared.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\bin\EzValidation.Core.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\bin\EzValidation.Core.Tests.Unit.Shared.pdb
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\bin\EzValidation.Core.pdb
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\obj\Release\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.csprojResolveAssemblyReference.cache
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\obj\Release\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\obj\Release\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.pdb

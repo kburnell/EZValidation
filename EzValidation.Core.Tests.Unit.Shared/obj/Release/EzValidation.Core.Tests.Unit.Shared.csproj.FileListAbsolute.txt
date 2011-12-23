@@ -1,0 +1,7 @@
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\bin\Release\EzValidation.Core.Tests.Unit.Shared.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\bin\Release\EzValidation.Core.Tests.Unit.Shared.pdb
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\bin\Release\EzValidation.Core.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\bin\Release\EzValidation.Core.pdb
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\obj\Release\EzValidation.Core.Tests.Unit.Shared.csprojResolveAssemblyReference.cache
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\obj\Release\EzValidation.Core.Tests.Unit.Shared.dll
+D:\Dev\EzValidation\EzValidation.Core.Tests.Unit.Shared\obj\Release\EzValidation.Core.Tests.Unit.Shared.pdb

@@ -1,0 +1,5 @@
+D:\Dev\EzValidation\EzValidation.Core\bin\Release\EzValidation.Core.dll
+D:\Dev\EzValidation\EzValidation.Core\bin\Release\EzValidation.Core.pdb
+D:\Dev\EzValidation\EzValidation.Core\obj\Release\EzValidation.Core.csprojResolveAssemblyReference.cache
+D:\Dev\EzValidation\EzValidation.Core\obj\Release\EzValidation.Core.dll
+D:\Dev\EzValidation\EzValidation.Core\obj\Release\EzValidation.Core.pdb

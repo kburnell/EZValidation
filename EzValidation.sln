@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzValidation.Core", "EzValidation.Core\EzValidation.Core.csproj", "{96FE93BB-0EC2-4C41-84C8-3F94505E8032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzValidation.Core.Tests.Unit.ServerSide", "EzValidation.Core.Tests.Unit.ServerSide\EzValidation.Core.Tests.Unit.ServerSide.csproj", "{3C74DFB1-1E61-4469-991C-602293A9ECF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzValidation.Core.Tests.Unit.Shared", "EzValidation.Core.Tests.Unit.Shared\EzValidation.Core.Tests.Unit.Shared.csproj", "{59350E84-4CB6-4A46-9C97-616296FE894B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzValidation.Core.Tests.Unit.ClientSide", "EzValidation.Core.Tests.Unit.ClientSide\EzValidation.Core.Tests.Unit.ClientSide.csproj", "{CE4503A1-1898-4FB3-A964-60AF8911FF39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzValidation.Core.Tests.Unit.ClientSideUnobtrusive", "EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.csproj", "{90A56FA3-7F53-4EF8-9940-4C401F9951AC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs12
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EzValidation.Core.Tests.Unit.ServerSide\\EzValidation.Core.Tests.Unit.ServerSide.csproj
+		SccProjectName1 = EzValidation.Core.Tests.Unit.ServerSide
+		SccLocalPath1 = EzValidation.Core.Tests.Unit.ServerSide
+		SccProjectUniqueName2 = EzValidation.Core\\EzValidation.Core.csproj
+		SccProjectName2 = EzValidation.Core
+		SccLocalPath2 = EzValidation.Core
+		SccProjectUniqueName3 = EzValidation.Core.Tests.Unit.Shared\\EzValidation.Core.Tests.Unit.Shared.csproj
+		SccProjectName3 = EzValidation.Core.Tests.Unit.Shared
+		SccLocalPath3 = EzValidation.Core.Tests.Unit.Shared
+		SccProjectUniqueName4 = EzValidation.Core.Tests.Unit.ClientSide\\EzValidation.Core.Tests.Unit.ClientSide.csproj
+		SccProjectName4 = EzValidation.Core.Tests.Unit.ClientSide
+		SccLocalPath4 = EzValidation.Core.Tests.Unit.ClientSide
+		SccProjectUniqueName5 = EzValidation.Core.Tests.Unit.ClientSideUnobtrusive\\EzValidation.Core.Tests.Unit.ClientSideUnobtrusive.csproj
+		SccProjectName5 = EzValidation.Core.Tests.Unit.ClientSideUnobtrusive
+		SccLocalPath5 = EzValidation.Core.Tests.Unit.ClientSideUnobtrusive
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FE93BB-0EC2-4C41-84C8-3F94505E8032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FE93BB-0EC2-4C41-84C8-3F94505E8032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FE93BB-0EC2-4C41-84C8-3F94505E8032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FE93BB-0EC2-4C41-84C8-3F94505E8032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C74DFB1-1E61-4469-991C-602293A9ECF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C74DFB1-1E61-4469-991C-602293A9ECF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C74DFB1-1E61-4469-991C-602293A9ECF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C74DFB1-1E61-4469-991C-602293A9ECF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59350E84-4CB6-4A46-9C97-616296FE894B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59350E84-4CB6-4A46-9C97-616296FE894B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59350E84-4CB6-4A46-9C97-616296FE894B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59350E84-4CB6-4A46-9C97-616296FE894B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4503A1-1898-4FB3-A964-60AF8911FF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4503A1-1898-4FB3-A964-60AF8911FF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4503A1-1898-4FB3-A964-60AF8911FF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4503A1-1898-4FB3-A964-60AF8911FF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A56FA3-7F53-4EF8-9940-4C401F9951AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A56FA3-7F53-4EF8-9940-4C401F9951AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A56FA3-7F53-4EF8-9940-4C401F9951AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A56FA3-7F53-4EF8-9940-4C401F9951AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

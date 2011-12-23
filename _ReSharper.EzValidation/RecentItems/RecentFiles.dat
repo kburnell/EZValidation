@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:BaseClasses/f:EzValidationDependentAttributeBase.cs" caret="803" fromTop="16" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Constants/f:Constants.cs" caret="152" fromTop="3" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Attributes/d:Comparison/f:NotEqual.cs" caret="819" fromTop="14" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Attributes/d:Comparison/f:Equal.cs" caret="1122" fromTop="22" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Attributes/d:Comparison/f:Greater.cs" caret="959" fromTop="16" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Attributes/d:Comparison/f:GreaterOrEqual.cs" caret="476" fromTop="11" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Attributes/d:Comparison/f:Less.cs" caret="794" fromTop="14" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Attributes/d:Comparison/f:LessOrEqual.cs" caret="838" fromTop="14" />
+    <File id="59350E84-4CB6-4A46-9C97-616296FE894B/d:Models/f:EqualModelOfDates.cs" caret="190" fromTop="6" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Util/f:EzValidationHookUp.cs" caret="0" fromTop="0" />
+    <File id="59350E84-4CB6-4A46-9C97-616296FE894B/d:Models/f:EqualModelOfStrings.cs" caret="0" fromTop="0" />
+    <File id="59350E84-4CB6-4A46-9C97-616296FE894B/d:Models/f:LessModelOfDatesAsStrings.cs" caret="190" fromTop="6" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:EqualTest.cs" caret="9982" fromTop="32" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Scripts/f:EzValidation.js" caret="1445" fromTop="23" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Scripts/f:ezvalidation.unobtrusive.js" caret="1241" fromTop="17" />
+    <File id="CE4503A1-1898-4FB3-A964-60AF8911FF39/d:Scripts/f:EzValidation.js" caret="1233" fromTop="17" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Controllers/f:HomeController.cs" caret="282" fromTop="6" />
+    <File id="59350E84-4CB6-4A46-9C97-616296FE894B/d:ViewModels/f:ValidationViewModel.cs" caret="7121" fromTop="26" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Scripts/f:EzValidation.min.js" caret="0" fromTop="0" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Scripts/f:ezvalidation.unobtrusive.min.js" caret="181" fromTop="0" />
+    <File id="CE4503A1-1898-4FB3-A964-60AF8911FF39/d:Controllers/f:HomeController.cs" caret="306" fromTop="10" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Util/f:EzValidationOperatorMetadata.cs" caret="2475" fromTop="20" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:GreaterTest.cs" caret="12218" fromTop="30" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:LessTest.cs" caret="8820" fromTop="33" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="4154" fromTop="21" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Scripts/f:ezvalidation.unobtrusive.js" caret="1090" fromTop="15" />
+    <File id="CE4503A1-1898-4FB3-A964-60AF8911FF39/d:Views/d:Home/f:Index.cshtml" caret="367" fromTop="12" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Util/f:EzValidationOperatorMetadata.cs" caret="4076" fromTop="45" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Util/f:EzValidationOperatorMetadata.cs" caret="4655" fromTop="40" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Util/f:EzValidationOperatorMetadata.cs" caret="1968" fromTop="30" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:EqualTest.cs" caret="9056" fromTop="28" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:EqualTest.cs" caret="10908" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:EqualTest.cs" caret="11145" fromTop="32" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:EqualTest.cs" caret="9745" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:EqualTest.cs" caret="9982" fromTop="32" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:GreaterTest.cs" caret="7219" fromTop="30" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:GreaterTest.cs" caret="3385" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:GreaterTest.cs" caret="3639" fromTop="32" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:GreaterTest.cs" caret="12218" fromTop="30" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:LessTest.cs" caret="8543" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:LessTest.cs" caret="8820" fromTop="33" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="6217" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="6473" fromTop="32" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="6594" fromTop="26" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Util/f:EzValidationOperatorMetadata.cs" caret="2475" fromTop="20" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="3932" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="4188" fromTop="32" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="4309" fromTop="26" />
+    <File id="3C74DFB1-1E61-4469-991C-602293A9ECF1/d:Attributes/d:Comparison/f:NotEqualTest.cs" caret="4562" fromTop="32" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Scripts/f:EzValidation.js" caret="1232" fromTop="17" />
+    <File id="96FE93BB-0EC2-4C41-84C8-3F94505E8032/d:Scripts/f:ezvalidation.unobtrusive.js" caret="1241" fromTop="17" />
+    <File id="CE4503A1-1898-4FB3-A964-60AF8911FF39/d:Scripts/f:EzValidation.js" caret="1233" fromTop="17" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Scripts/f:ezvalidation.unobtrusive.js" caret="1241" fromTop="17" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Scripts/f:ezvalidation.unobtrusive.js" caret="1481" fromTop="24" />
+    <File id="CE4503A1-1898-4FB3-A964-60AF8911FF39/d:Views/d:Home/f:Index.cshtml" caret="2115" fromTop="9" />
+    <File id="CE4503A1-1898-4FB3-A964-60AF8911FF39/d:Views/d:Home/f:Index.cshtml" caret="3597" fromTop="25" />
+    <File id="90A56FA3-7F53-4EF8-9940-4C401F9951AC/d:Views/d:Home/f:Index.cshtml" caret="3539" fromTop="7" />
+  </RecentEdits>
+</RecentFiles>
